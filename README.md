@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (174)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (200)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (349)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (101)
-- [🎬 Video & Animation](#video-animation) (95)
-- [🎨 Image, Design & 3D](#image-design-3d) (115)
-- [✍️ Writing & Content](#writing-content) (68)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (175)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (201)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (351)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (102)
+- [🎬 Video & Animation](#video-animation) (96)
+- [🎨 Image, Design & 3D](#image-design-3d) (116)
+- [✍️ Writing & Content](#writing-content) (69)
 - [📊 Analytics & Data](#analytics-data) (96)
-- [🗂 Productivity & Notes](#productivity-notes) (280)
+- [🗂 Productivity & Notes](#productivity-notes) (284)
 - [🔎 Search & Discovery](#search-discovery) (49)
 - [🎓 Education & Learning](#education-learning) (47)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (41)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (52)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (168)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (38)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (40)
 - [👥 Social & Community](#social-community) (30)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (21)
-- [✨ Everything Else](#everything-else) (135)
+- [✨ Everything Else](#everything-else) (136)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -202,6 +202,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ZenABM](https://zenabm.com/ai) - Ditch copy-pasting into Campaign Manager!.
 - [Get-Seen.Live](https://get-seen.live) - Get-Seen.Live is a public product leaderboard where your payment determines your rank. Submit a product or X handle, choose an amount, and claim the rank that amount supports. No votes, followers,….
 - [BlooTrue: Free Review Widgets](https://www.blootrue.com) - BlooTrue offers free review widgets and no-code website widgets, an Elfsight alternative.
+- [Prefer](https://tryprefer.com) - AEO should not be another dashboard.
 
 ## 🤖 AI Agents & Assistants
 
@@ -405,6 +406,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Timeless](https://www.timeless.day) - The first platform where your conversations build your agents.
 - [Yedric.ai](https://www.yedric.ai) - Your users shouldn't have to learn where every feature lives.
 - [Cue by Manus](https://cue.im) - Whatever life brings, your personal agents on Cue handle it — each with its own email, phone number, wallet and computer to get real work done.
+- [ZooWork](https://zoowork.ai) - ZooWork lets you build, deploy, and deliver AI agents to teams or clients — experts start in the Builder UI, developers ship with the Managed Agent API.
 
 ## 💻 Coding & Developer Tools
 
@@ -758,6 +760,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [statusbar](https://statusbar.vrypan.net) - A status bar for any terminal.
 - [Polylane](https://polylane.com) - Nobody should be on call.
 - [Open Inspector](https://patlf.github.io/open-inspector/) - A free, open-source browser extension for inspecting layout, styles, colour, type and assets on any page, and exporting its design tokens.
+- [Agent Activity](https://le-max-app.com/apps/agent-activity/) - See what your AI coding agents are doing behind the scene: every session, build, test run and screenshot, live and per agent.
+- [LuauCheck](https://luaucheck.com) - LuauCheck turns one sentence into a Roblox Luau script and shows exactly where to place it in Studio.
 
 ## 🎙 Audio, Voice & Music
 
@@ -862,6 +866,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GeminiTTS](https://geminitts.app) - GeminiTTS is an online text-to-speech studio powered by Gemini 3.8 TTS. Choose Gemini 3.8 Flash for expressive delivery or Flash Lite for faster drafts, pick from 30 preset voices, and generate….
 - [Eleven v4 and Eleven v4 Turbo](https://elevenlabs.io/v4) - Meet Eleven v4 and Eleven v4 Turbo by ElevenLabs, their most expressive models yet, with Turbo built for real-time use.
 - [Famulor](https://www.famulor.io) - Deploy AI voice agents that answer every inbound call, run outbound campaigns, and follow up over WhatsApp, email and SMS.
+- [FoundrRadio](https://foundrradio.live) - FoundrRadio is an internet radio platform where founders could own their own radio stations and go on air.
 
 ## 🎬 Video & Animation
 
@@ -960,6 +965,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MiniMax H3 - Create 2K AI Videos from Te](https://minimax-h3.com) - Create 4–15 second videos with MiniMax H3 from text, frames, and multimodal references.
 - [Soutine Seedance Prompt Library](https://soutine.ai/seedance-prompts) - 66 Seedance video prompts with real clip previews; copy shot language or run it in Soutine.
 - [Syllaby AI Avatar 2.0](https://syllaby.io/features/avatars-2-0/) - Turn a script or simple idea into a complete presenter-led video with a realistic AI avatar, natural voice, B-roll and subtitles—without hiring actors.
+- [MacCam](https://maccam.app) - MacCam is a free, native camera app for macOS.
 
 ## 🎨 Image, Design & 3D
 
@@ -1079,6 +1085,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Soutine Nano Banana Prompts](https://soutine.ai/banana-prompts) - 1,400+ free Nano Banana (Gemini) image prompts with real previews; browse, copy, or try them in Soutine.
 - [Anthroposcaper](https://anthroposcaper.ru/en/) - Draw a 2D plan in the browser or import a DXF, then tag its faces and lines.
 - [Claude Imagine](https://claudeimagine.com) - Claude Imagine is a web app for AI image generation, image editing and video creation.
+- [AI Image Generator](https://imgstyler.com) - Generate, restyle, and edit AI images with GPT Image 2 and Nano Banana prompts, reference images, and reusable styles in one studio.
 
 ## ✍️ Writing & Content
 
@@ -1150,6 +1157,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ShroomPen](https://shroompen.mycelsystem.com) - ShroomPen is a privacy-first browser writing assistant that lets you instantly reply, rewrite, fix grammar, or translate text across any website without sending sensitive data to the cloud.
 - [Lattice](https://lattice.aryy.in) - Lattice reshapes your text through multiple language paths, creating a fresh expression while preserving the original idea.
 - [Vitra.ai](https://vitra.ai) - Stop switching tools!.
+- [MangaTranslate](https://www.mangatranslate.com/ko/) - MangaTranslate is an enterprise-grade manga reader and translator: batch and custom translation for individuals, a full online Photoshop editor and API for studios, all languages supported.
 
 ## 📊 Analytics & Data
 
@@ -1533,6 +1541,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NotchMind](https://notchmind.com) - NotchMind turns your MacBook notch into a home for music, files, clipboard history, timers, downloads and 28 everyday tools.
 - [Bracket](https://www.use-bracket.com) - Bracket connects to the tools your business already runs on — Gmail, Slack, Figma and GitHub — and turns conversations, updates and meeting notes into a living business memory.
 - [FileOnTap](https://fileontap.com) - FileOnTap — free browser-local File Converter for images and PDFs in the tab; no upload, no account.
+- [Crowny!](https://crowny.lol) - Crowny is the best dynamic notch app for MacBook: manag Ai Agents, music, timers, your calendar, reminders, clipboard, files, games and water reminders live in the notch, one glance up.
+- [WattMate](https://wattmateapp.com) - WattMate sits in the Mac menu bar and shows which app is draining the battery right now, in watts, and how many minutes you get back if you quit it.
+- [una mano](https://unamanokeyboard.com) - una mano moves a familiar QWERTY keyboard left, centre, or right when a hand is busy.
+- [Notchware](https://ballmac.com/notchware) - That notch at the top of your MacBook does nothing.
 
 ## 🔎 Search & Discovery
 
@@ -1947,6 +1959,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [JevGPT](https://curata.com/jevgpt) - For years we've used LLMs built to write text to make choices.
 - [Chat.sh](https://chat.sh) - 🎉 Launch day only: $200 off any lifetime deal with code PHLAUNCH ($399 → $199, $799 → $599).
 - [Communicate](https://communicate.so) - Build AI support agents from your help docs, files, and past replies.
+- [Deskcord.chat](https://deskcord.chat) - Turn Discord into your support desk and chat with your customers.
+- [miso.com](https://www.miso.com) - Stop opening 20 tabs to book a trip.
 
 ## 👥 Social & Community
 
@@ -2142,6 +2156,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pokébinder](https://pokebinder.xyz) - A free binder planner for Pokémon TCG collectors.
 - [Phare C1®](https://www.pharelabs.com) - Phare C1 is a smoke alarm that sounds for actual emergencies and nothing else.
 - [Bambu Lab R1](https://bambulab.com/en-us/r1) - Bambu Lab R1 is a 55W CO2 laser cutter built around automation.
+- [FeelMyMac](https://feelmymac.thehighjack.it) - FeelMyMac brings haptic textures to cursor movement and scrolling on Mac trackpads.
 
 ## Contributing
 
